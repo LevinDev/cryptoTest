@@ -11,6 +11,7 @@ import UIKit
 class TickerTableViewCell: UITableViewCell {
      @IBOutlet weak var labelLastPrice: UILabel?
      @IBOutlet weak var labelCurrencyPair: UILabel?
+     @IBOutlet weak var labelDetail: UILabel?
      @IBOutlet weak var imageViewFrom: UIImageView?
      @IBOutlet weak var imageViewTo: UIImageView?
      @IBOutlet weak var imageArrow: UIImageView?
@@ -32,6 +33,7 @@ class TickerTableViewCell: UITableViewCell {
     
     func bind(ticker: TickerData, userInputValue: String?) {
         labelLastPrice?.text = ticker.lastTradePrice
+        labelDetail?.text = "Highest: \(ticker.highestTradingPrice)"
         var currencyPair = CurrencyPair.getCurrencyPair(pairdId: ticker.currencyPair)
         labelCurrencyPair?.text = currencyPair.displayTitle
         imageViewFrom?.image = currencyPair.fromImage

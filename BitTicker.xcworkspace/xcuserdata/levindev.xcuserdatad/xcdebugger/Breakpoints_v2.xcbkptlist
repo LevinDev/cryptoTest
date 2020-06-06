@@ -7,22 +7,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "8F5747B4-4AB2-4652-A330-55D31E14CE0F"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BitTicker/Viewmodel/HomeViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "63"
-            endingLineNumber = "63"
-            landmarkName = "transform(input:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "4749C42D-6905-40FA-9318-64BD7CBCB3CC"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -39,118 +23,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "6F7A1BC3-A62C-4229-A3BA-4230E0247687"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BitTicker/Service/NetworkService.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "52"
-            endingLineNumber = "52"
-            landmarkName = "setReceiveHandler(websocketTask:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9CDD2C8A-B8F5-43BA-9EC1-899449B2AE76"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BitTicker/Service/NetworkService.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "56"
-            endingLineNumber = "56"
-            landmarkName = "setReceiveHandler(websocketTask:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B89BC8DA-3D4E-48B0-B2B0-1EEBA9BC684E"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BitTicker/Service/NetworkService.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
-            landmarkName = "setReceiveHandler(websocketTask:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "D6A95D46-97B4-4E44-9FDE-DE5EAA686AEA"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BitTicker/Viewmodel/HomeViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
-            landmarkName = "transform(input:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "95E551E9-61E0-4C49-B0F7-86478D839871"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BitTicker/Viewmodel/HomeViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "59"
-            endingLineNumber = "59"
-            landmarkName = "transform(input:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "95E551E9-61E0-4C49-B0F7-86478D839871 - 47e4bf0b42a4f7c1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #3 (()) -&gt; Combine.AnyPublisher&lt;BitTicker.HomeState, Swift.Never&gt; in BitTicker.HomeViewModel.transform(input: BitTicker.HomeViewModelInput) -&gt; Combine.AnyPublisher&lt;BitTicker.HomeState, Swift.Never&gt;"
-                  moduleName = "BitTicker"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/levindev/Downloads/BitTicker/BitTicker/Viewmodel/HomeViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "51"
-                  endingLineNumber = "51"
-                  offsetFromSymbolStart = "199">
-               </Location>
-               <Location
-                  uuid = "95E551E9-61E0-4C49-B0F7-86478D839871 - 8c018de82defc997"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (BitTicker.TickerData) -&gt; BitTicker.HomeState in closure #3 (()) -&gt; Combine.AnyPublisher&lt;BitTicker.HomeState, Swift.Never&gt; in BitTicker.HomeViewModel.transform(input: BitTicker.HomeViewModelInput) -&gt; Combine.AnyPublisher&lt;BitTicker.HomeState, Swift.Never&gt;"
-                  moduleName = "BitTicker"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/levindev/Downloads/BitTicker/BitTicker/Viewmodel/HomeViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "51"
-                  endingLineNumber = "51"
-                  offsetFromSymbolStart = "487">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "36E6C7C5-B1E2-44D9-9BC1-370DAB717816"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -161,6 +33,22 @@
             startingLineNumber = "59"
             endingLineNumber = "59"
             landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD670709-42E7-4EB8-B725-7C342F0D69C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BitTicker/ViewControllers/DetailVc.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "bindUI()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

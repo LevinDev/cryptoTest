@@ -397,6 +397,7 @@
                                             <outlet property="imageViewFrom" destination="UTp-D8-o7h" id="3zI-MZ-vb3"/>
                                             <outlet property="imageViewTo" destination="oTL-r4-cAY" id="ESg-NS-Ocl"/>
                                             <outlet property="labelCurrencyPair" destination="a0B-w9-8HX" id="gO3-By-hOe"/>
+                                            <outlet property="labelDetail" destination="FAF-DX-2Ry" id="gBh-wq-NAY"/>
                                             <outlet property="labelLastPrice" destination="0We-Jc-kIg" id="xW6-xg-0Tg"/>
                                         </connections>
                                     </tableViewCell>

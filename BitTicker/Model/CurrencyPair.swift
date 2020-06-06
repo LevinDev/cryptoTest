@@ -36,6 +36,9 @@ struct CurrencyPair {
 
 
     static let currencyPairs = [
+        343:    "USDT_MDT",
+        338:    "USDT_BUSD",
+        337:    "USDT_BNB",
         177:    "BTC_ARDR",
         253:    "BTC_ATOM",
         324:    "BTC_AVA",
@@ -206,6 +209,8 @@ struct CurrencyPair {
         327:    "USDT_XRPBULL",
         278:    "USDT_XTZ",
         180:    "USDT_ZEC",
-        220:    "USDT_ZRX"
+        220:    "USDT_ZRX",
+        336:    "BNB_BTC",
+        341:    "BUSD_BTC"
     ]
 }
