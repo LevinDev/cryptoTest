@@ -15,19 +15,25 @@ This application follows clean MVVM + Cordinator software design pattern and is 
 ## installation
 - Open BitTicker.xcworkspace
 - Run the project.
+- Create account or Log using test credential.
 - All the files including pods are committed. If any error from pod please pod install.
+
+## Test credential
+- Email: lv@gmail.com
+- Pass: 123456
 
 ## Features
 
-- Reactive programing using [Combine framework]
-- Dark Mode 
-- Diffable datasource
+- Reactive programing using [Combine framework].
+- Firebase Auth for sign in and sign up.
+- Dark Mode.
+- Diffable datasource..
 - MVVM + cordinator based on clean Architecture
 
 ## To Do
 
-- Unit Testing
-- All the class are already written with testing in mind
+- Unit Testing.
+- All the class are written with testing in mind.
 
 # Support
 - levivarg@gmail.com
