@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>821182971633-l7kr4o1u1igagj4o4dsavmh20b2ajq2f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.821182971633-l7kr4o1u1igagj4o4dsavmh20b2ajq2f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNwVNujqw22FZzRq9-fDe_JDCRLnheAjk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>821182971633</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BitTicker</string>
+	<key>PROJECT_ID</key>
+	<string>bittrackerlevin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bittrackerlevin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:821182971633:ios:c78be31508a8aae96db350</string>
+	<key>DATABASE_URL</key>
+	<string>https://bittrackerlevin.firebaseio.com</string>
+</dict>
+</plist>
